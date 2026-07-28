@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/AI%20Developer-00D084?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000" alt="AI Developer"/>
   <img src="https://img.shields.io/badge/Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
   <img src="https://img.shields.io/badge/Based%20in-France%20🇫🇷-00D084?style=for-the-badge&labelColor=000000" alt="France"/>
-  <img src="https://img.shields.io/badge/⟭⟬⁷-Borahae-00C853?style=for-the-badge&labelColor=000000" alt="BTS"/>
 </p>
 
 <!-- Profile Views Counter -->

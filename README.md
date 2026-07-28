@@ -1,10 +1,9 @@
 <div align="center">
 
 <!-- Animated Header with Green Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=200&section=header&text=ASMA%20KAJEIOU&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20|%20Machine%20Learning%20Explorer&descAlignY=55&descSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=200&section=header&text=Aloïs%20Duvoyé&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20|%20Machine%20Learning%20Explorer&descAlignY=55&descSize=25"/>
 
-<!-- Subtle BTS Reference -->
-<h3>⟭⟬⁷</h3>
+
 
 <!-- Dynamic Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=💚+Welcome+to+my+GitHub;🧠+Building+AI+Solutions;💻+Full+Stack+Developer;🤖+Machine+Learning+Explorer;🚀+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
@@ -18,7 +17,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=asmakaj&color=00D084&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=aloisduvoye-source&color=00D084&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -26,7 +25,7 @@
 
 ## 🚀 **ABOUT ME**
 
-### 👋 Hi, I'm Asma Kajeiou 
+### 👋 Hi, I'm Aloïs Duvoyé 
 
 **AI Developer & Digital Innovator** based in **France 🇫🇷** and student at CY Tech
 
@@ -95,21 +94,7 @@
 </details>
 
 ---
-
-## 📊 **GITHUB ANALYTICS**
-
-I code mostly on VS Code and rarely git push...but that’s my 2026 resolution !
-
-<div align="center">
-  
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmakaj&custom_title=Asma's%20Contribution%20Graph&bg_color=0D1117&color=00D084&line=00C853&point=00D084&area_color=00D084&area=true&hide_border=true&radius=10" width="95%"/>
-
-</div>
-
----
-
-
+<!--
 ## 🚀 **ACTIVE PROJECTS**
 
 <div align="center">
@@ -131,15 +116,16 @@ I code mostly on VS Code and rarely git push...but that’s my 2026 resolution !
 ## 📫 **LET'S CONNECT !**
 
 <div align="center">
+-->
 
 <!-- Social Media Buttons -->
-<a href="https://www.linkedin.com/in/asmakajeiou/" target="_blank">
+<a href="https://www.linkedin.com/in/alois-duvoye-73b576320/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/asmakaj" target="_blank">
+<a href="https://github.com/aloisduvoye-source" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:asmakajeiou@gmail.com">
+<a href="mailto:alois.duvoye@gmail.com">
   <img src="https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 

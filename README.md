@@ -40,14 +40,13 @@
 <div>
   
 ### 👥 Community Involvement
-**President @ AT ALL COST** - CY Tech AI Lab  
-*Mission: Democratizing AI knowledge through workshops & projects*
+**Member ATILLA** - CY Tech computer science lab  
 
-**Tutor in maths/physics @ Eurêka**   
-*Mission: Tutoring Seniors in Maths and Physics to prepare for the franch Bacalauréat*
+**Tutor in maths/physics at a highschool level**   
+*Mission: Tutoring Seniors in Maths and Physics to prepare for the french Bacalauréat*
 
 ### 💚 Philosophy
-*"The best way to predict the future is to create it"*
+*"Just because we can read, write and do a little math, doesn't mean that we're entitled to conquer the universe."*
 
 ---
 

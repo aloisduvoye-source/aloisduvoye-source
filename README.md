@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Green Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=200&section=header&text=Aloïs%20Duvoyé&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20|%20Machine%20Learning%20Explorer&descAlignY=55&descSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:00C853,100:10A37F&height=200&section=header&text=Aloïs%20Duvoyé&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20analyst%20|%20Web%20Developer%20&descAlignY=55&descSize=25"/>
 
 
 
